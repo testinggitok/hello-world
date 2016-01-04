@@ -1,1 +1,1 @@
-Hello this is a readme.txt file! Ok here's another addition
+Hello this is a readme.txt text file! Ok here's another addition. Ok
